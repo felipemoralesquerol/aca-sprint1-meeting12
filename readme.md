@@ -1,7 +1,10 @@
 # Médulos usados
-*npm i express
-*npm i compression
-*npm i morgan
+``npm i express``
+
+``npm i compression``
+
+``npm i morgan``
+
 ## Módulo para desarrollo
 npm install kill-port --save-dev
 ## Nodemon avanzado (error en puerto abierto)
